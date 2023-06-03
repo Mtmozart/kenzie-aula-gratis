@@ -1,0 +1,43 @@
+body, header,img, h1, h2, main, p,div, input, textarea,button, label, footer, hr {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+}
+
+header img{
+
+}
+.app{
+
+}
+
+section {
+
+}
+
+section h2{
+
+}
+
+section hr{
+
+}
+section p{
+
+}
+
+section .form-control{
+
+}
+
+section label {
+
+}
+
+section textarea{
+    
+}
